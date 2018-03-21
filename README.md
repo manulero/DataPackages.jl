@@ -1,6 +1,6 @@
 # DataPackages
 
-The `DataPackages` package currently provides some specific functionality for managing a creating tabular [datapackages](https://frictionlessdata.io/docs/tabular-data-package/).
+A package for managing a creating [tabular datapackages](https://frictionlessdata.io/docs/tabular-data-package/).
 
 ## Getting started
 
